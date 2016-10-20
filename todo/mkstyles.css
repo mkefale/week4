@@ -13,6 +13,7 @@ h2 {
   color: black;
   text-align: left;
   margin-bottom:15px;
+  white-space: normal;
 }
 
 .btn-warning {
