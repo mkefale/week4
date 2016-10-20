@@ -1,0 +1,24 @@
+h1 {
+  font-family: "Cinzel", serif;
+    text-transform: capitalize;
+}
+
+h2 {
+    font-family: "PT Sans", sans-serif;
+}
+
+.btn {
+  font-family: "Muli", sans-serif;
+  font-size: 1.3em;
+  color: black;
+  text-align: left;
+  margin-bottom:15px;
+}
+
+.btn-warning {
+  background-color: #F8C471;
+}
+
+.btn-info {
+  background-color: #AED6F1;
+}
